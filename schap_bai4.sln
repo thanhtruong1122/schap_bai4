@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schap_bai4", "schap_bai4.csproj", "{39DA1CC9-92F9-4481-8DBB-FFE6C580A987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39DA1CC9-92F9-4481-8DBB-FFE6C580A987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DA1CC9-92F9-4481-8DBB-FFE6C580A987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DA1CC9-92F9-4481-8DBB-FFE6C580A987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DA1CC9-92F9-4481-8DBB-FFE6C580A987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C1AD78A-1503-4F97-8930-8F6B8FA53E3D}
+	EndGlobalSection
+EndGlobal
